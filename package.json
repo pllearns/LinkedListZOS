@@ -1,0 +1,18 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "A Simple Linked List for educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ZeppelinOS"
+  ],
+  "author": "Phillip Lorenzo",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.0.4",
+    "zos-lib": "^2.2.0"
+  }
+}
